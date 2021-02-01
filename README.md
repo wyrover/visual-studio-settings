@@ -6,12 +6,22 @@
 
 ## vs2013
 
-![vs2013 color](https://github.com/wyrover/visual-studio-settings/blob/master/images/vs2013-color.png)
+![vs2013 color](images/vs2013-color.png)
 
 ## vs2005
 
-![vs2005 color](https://github.com/wyrover/visual-studio-settings/blob/master/images/vs2005-color.png)
+![vs2005 color](images/vs2005-color.png)
 
+
+## AsmDude
+
+查看反汇编
+
+![](images/Asm_Dude.png)
+
+![](images/Asm_Dude_color.png)
+
+https://marketplace.visualstudio.com/items?itemName=Henk-JanLebbink.AsmDude
 
 
 ## VisualAssist
