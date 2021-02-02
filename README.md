@@ -30,9 +30,11 @@ https://marketplace.visualstudio.com/items?itemName=Henk-JanLebbink.AsmDude
 
 C:\Users\%USERNAME%\AppData\Roaming\VisualAssist
 
-## VSAhk
+## 向前导航和向后导航
 
-VSAhk.ahk
+visual assist 与导航快捷前冲突
+
+设置 `选项->环境->键盘` 默认值, 且改变向后导航为 `Alt+Left`, 向前导航为 `Alt+Right`, 且绑定为文本编辑器
 
 
 
